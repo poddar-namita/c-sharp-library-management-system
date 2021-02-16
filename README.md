@@ -1,4 +1,4 @@
-# Library Management System Using C#
+# Library Management System Using C-sharp
 
 ![Project Image](/images/output.gif)
 
@@ -25,7 +25,7 @@ The main purpose of this project is to automate a library or a study center and 
 -   SQL (Local Database of Visual Studio)
 -   Visual Studio
 
-[Back To The Top](#library-management-system-using-c#)
+[Back To The Top](#library-management-system-using-c-sharp)
 
 ---
 
@@ -35,7 +35,7 @@ The main purpose of this project is to automate a library or a study center and 
     > Clone the repo
         >> For Windows: Git Bash
         >> For Linux: Terminal
-        >> git clone https://github.com/poddar-namita/library-management-system.git
+        >> git clone https://github.com/poddar-namita/c-sharp-library-management-system.git
 
     > Open Visual Studio and navigate to open project and select the project.
     > Right click on the Solution -> Add -> Existing Project, then navigate and select the "BAL" project.
@@ -45,7 +45,7 @@ The main purpose of this project is to automate a library or a study center and 
     > Change the connection string in the DatabaseConnection.cs file.
 ```
 
-[Back To The Top](#library-management-system-using-c#)
+[Back To The Top](#library-management-system-using-c-sharp)
 
 ---
 
@@ -73,7 +73,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#library-management-system-using-c#)
+[Back To The Top](#library-management-system-using-c-sharp)
 
 ---
 
@@ -93,4 +93,4 @@ SOFTWARE.
 
     -   [@Mohamad Dbouk](https://github.com/mhdbouk/Apriori)
 
-[Back To The Top](#library-management-system-using-c#)
+[Back To The Top](#library-management-system-using-c-sharp)
