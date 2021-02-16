@@ -1,0 +1,14 @@
+C:\Users\NAMITA\Desktop\Apriori-master\Apriori-master\BAL\bin\Debug\BAL.dll
+C:\Users\NAMITA\Desktop\Apriori-master\Apriori-master\BAL\bin\Debug\BAL.pdb
+C:\Users\NAMITA\Desktop\Apriori-master\Apriori-master\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\NAMITA\Desktop\Apriori-master\Apriori-master\BAL\obj\Debug\BAL.Properties.Resources.resources
+C:\Users\NAMITA\Desktop\Apriori-master\Apriori-master\BAL\obj\Debug\BAL.csproj.GenerateResource.Cache
+C:\Users\NAMITA\Desktop\Apriori-master\Apriori-master\BAL\obj\Debug\BAL.dll
+C:\Users\NAMITA\Desktop\Apriori-master\Apriori-master\BAL\obj\Debug\BAL.pdb
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\Apriori-master\Apriori-master\BAL\bin\Debug\BAL.dll
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\Apriori-master\Apriori-master\BAL\bin\Debug\BAL.pdb
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\Apriori-master\Apriori-master\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\Apriori-master\Apriori-master\BAL\obj\Debug\BAL.Properties.Resources.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\Apriori-master\Apriori-master\BAL\obj\Debug\BAL.csproj.GenerateResource.Cache
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\Apriori-master\Apriori-master\BAL\obj\Debug\BAL.dll
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\Apriori-master\Apriori-master\BAL\obj\Debug\BAL.pdb

@@ -1,0 +1,210 @@
+//admin
+
+Name		| Data Type	| Allow Nulls 
+----------------|---------------|-------------
+admin_id	| int		| False	
+admin_name	| nvarchar(50)	| False	
+admin_password	| nvarchar(50)	| False	
+
+CREATE TABLE [dbo].[admin] (
+    [admin_id]       INT           NOT NULL,
+    [admin_name]     NVARCHAR (50) NOT NULL,
+    [admin_password] NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([admin_id] ASC)
+);
+
+===============================================
+
+//admin_approval
+
+Name		| Data Type	| Allow Nulls 
+----------------|---------------|-------------
+approval_id	| int		| False	
+name		| nvarchar(50)	| False	
+username	| nvarchar(50)	| False	
+password	| nvarchar(50)	| False	
+sec_question	| nvarchar(50)	| False	
+answer		| nvarchar(50)	| False	
+
+CREATE TABLE [dbo].[admin_approval] (
+    [approval_id]  INT           NOT NULL,
+    [name]         NVARCHAR (50) NOT NULL,
+    [username]     NVARCHAR (50) NOT NULL,
+    [password]     NVARCHAR (50) NOT NULL,
+    [sec_question] NVARCHAR (50) NOT NULL,
+    [answer]       NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([approval_id] ASC)
+);
+
+===============================================
+
+//book
+
+Name		 | Data Type	| Allow Nulls 
+-----------------|--------------|-------------
+book_id		 | int		| False	
+book_name	 | nvarchar(50)	| False	
+edition		 | nvarchar(50)	| False	
+publisher	 | nvarchar(50)	| False	
+date_of_purchase | nvarchar(50)	| False	
+price		 | float	| False	
+quantity	 | int		| False	
+available_qty	 | int		| True	
+
+CREATE TABLE [dbo].[book] (
+    [book_id]          INT           NOT NULL,
+    [book_name]        NVARCHAR (50) NOT NULL,
+    [edition]          NVARCHAR (50) NOT NULL,
+    [publisher]        NVARCHAR (50) NOT NULL,
+    [date_of_purchase] NVARCHAR (50) NOT NULL,
+    [price]            FLOAT (53)    NOT NULL,
+    [quantity]         INT           NOT NULL,
+    [available_qty]    INT           NULL,
+    PRIMARY KEY CLUSTERED ([book_id] ASC)
+);
+
+===============================================
+
+//issue_book
+
+Name		| Data Type	| Allow Nulls 
+----------------|---------------|-------------
+issue_id	| int		| False	
+book_id		| int		| False	
+book_name	| nvarchar(50)	| False	
+edition		| nvarchar(50)	| False	
+publisher	| nvarchar(50)	| False	
+student_id	| int		| False	
+enrollment_no	| int		| False	
+student_name	| nvarchar(50)	| False	
+course		| nvarchar(50)	| False	
+year		| int		| False	
+semester	| int		| False	
+contact		| nvarchar(50)	| False	
+date_of_issue	| nvarchar(50)	| False	
+
+CREATE TABLE [dbo].[issue_book] (
+    [issue_id]      INT           NOT NULL,
+    [book_id]       INT           NOT NULL,
+    [book_name]     NVARCHAR (50) NOT NULL,
+    [edition]       NVARCHAR (50) NOT NULL,
+    [publisher]     NVARCHAR (50) NOT NULL,
+    [student_id]    INT           NOT NULL,
+    [enrollment_no] INT           NOT NULL,
+    [student_name]  NVARCHAR (50) NOT NULL,
+    [course]        NVARCHAR (50) NOT NULL,
+    [year]          INT           NOT NULL,
+    [semester]      INT           NOT NULL,
+    [contact]       NVARCHAR (50) NOT NULL,
+    [date_of_issue] NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([issue_id] ASC)
+);
+
+===============================================
+
+//librarian
+
+Name		| Data Type	| Allow Nulls 
+----------------|---------------|-------------
+user_id		| int		| False	
+name		| nvarchar(50)	| False	
+username	| nvarchar(50)	| False	
+password	| nvarchar(50)	| False	
+sec_question	| nvarchar(50)	| False	
+answer		| nvarchar(50)	| False	
+
+CREATE TABLE [dbo].[librarian] (
+    [user_id]      INT           NOT NULL,
+    [name]         NVARCHAR (50) NOT NULL,
+    [username]     NVARCHAR (50) NOT NULL,
+    [password]     NVARCHAR (50) NOT NULL,
+    [sec_question] NVARCHAR (50) NOT NULL,
+    [answer]       NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([user_id] ASC)
+);
+
+===============================================
+
+//rejected_accounts
+
+Name		| Data Type	| Allow Nulls 
+----------------|---------------|-------------
+rejection_id	| int		| False	
+name		| nvarchar(50)	| False	
+username	| nvarchar(50)	| False	
+password	| nvarchar(50)	| False	
+sec_question	| nvarchar(50)	| False	
+answer		| nvarchar(50)	| False	
+
+CREATE TABLE [dbo].[rejected_accounts] (
+    [rejection_id] INT           NOT NULL,
+    [name]         NVARCHAR (50) NOT NULL,
+    [username]     NVARCHAR (50) NOT NULL,
+    [password]     NVARCHAR (50) NOT NULL,
+    [sec_question] NVARCHAR (50) NOT NULL,
+    [answer]       NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([rejection_id] ASC)
+);
+
+===============================================
+
+//return_book
+
+Name		| Data Type	| Allow Nulls 
+----------------|---------------|-------------
+return_id	| int		| False	
+book_id		| int		| False	
+book_name	| nvarchar(50)	| False	
+edition		| nvarchar(50)	| False	
+publisher	| nvarchar(50)	| False	
+student_id	| int		| False	
+enrollment_no	| int		| False	
+student_name	| nvarchar(50)	| False	
+course		| nvarchar(50)	| False	
+year		| int		| False	
+semester	| int		| False	
+contact		| nvarchar(50)	| False	
+date_of_issue	| nvarchar(50)	| False	
+date_of_return	| nvarchar(50)	| False	
+
+CREATE TABLE [dbo].[return_book] (
+    [return_id]      INT           NOT NULL,
+    [book_id]        INT           NOT NULL,
+    [book_name]      NVARCHAR (50) NOT NULL,
+    [edition]        NVARCHAR (50) NOT NULL,
+    [publisher]      NVARCHAR (50) NOT NULL,
+    [student_id]     INT           NOT NULL,
+    [enrollment_no]  INT           NOT NULL,
+    [student_name]   NVARCHAR (50) NOT NULL,
+    [course]         NVARCHAR (50) NOT NULL,
+    [year]           INT           NOT NULL,
+    [semester]       INT           NOT NULL,
+    [contact]        NVARCHAR (50) NOT NULL,
+    [date_of_issue]  NVARCHAR (50) NOT NULL,
+    [date_of_return] NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([return_id] ASC)
+);
+===============================================
+
+//student
+
+Name		| Data Type	| Allow Nulls 
+----------------|---------------|-------------
+student_id	| int		| False	
+enrollment_no	| nvarchar(50)	| False	
+student_name	| nvarchar(50)	| False	
+course		| nvarchar(50)	| False	
+year		| int		| False	
+semester	| int		| False	
+contact		| nvarchar(50)	| False	
+
+CREATE TABLE [dbo].[student] (
+    [student_id]    INT           NOT NULL,
+    [enrollment_no] NVARCHAR (50) NOT NULL,
+    [student_name]  NVARCHAR (50) NOT NULL,
+    [course]        NVARCHAR (50) NOT NULL,
+    [year]          INT           NOT NULL,
+    [semester]      INT           NOT NULL,
+    [contact]       NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([student_id] ASC)
+);

@@ -1,0 +1,36 @@
+c:\users\namita\documents\visual studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainLogin.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogin.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignUp.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPassword.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianHome.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.NewBook.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Statistics.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.NewStudent.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBook.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBook.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutUs.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ContactUs.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteLibrarian.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewLibrarian.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBook.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewStudent.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ApproveLibrarian.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RejectedLibrarian.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DataAnalysis.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\BAL.dll
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\BAL.pdb
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AprioriForm.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.TableUserControl.resources
+D:\PROJECTS\library-management-system-c#\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\PROJECTS\library-management-system-c#\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\PROJECTS\library-management-system-c#\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
